@@ -2,15 +2,16 @@
 
 <h1 align="center">Hi 👋, I'm Baha Smaoui</h1>
 <h3 align="center">A 19 year old developer with a passion for graphic design</h3>
+<ul >
+<li> I’m currently working on <b>The Odin Project</b> </li>
 
+<li> I’m currently learning <b>Node js</b> </li>
 
-<p align="center">- 🔭 I’m currently working on **The Odin Project** </p>
+<li> All of my projects are available at <i>Loading..</i>  </li>
 
-<p align="center">- 🌱 I’m currently learning **Node js** </p>
+<li> How to reach me <b>bahasmaoui.uni@gmail.com</b></li>
+</ul>
 
-<p align="center">- 👨‍💻 All of my projects are available at ( *not yet!* ) </p>
-
-<p align="center">- 📫 How to reach me **bahasmaoui.uni@gmail.com**</p>
 
 <br><br><br><br>
 <h3 align="left">Connect with me:</h3>
