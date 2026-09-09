@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co/NrygccP/header.png)
 
 <h1 align="center">Hi 👋, I'm Baha Smaoui</h1>
-<h3 align="center">A 20 year old developer with a passion for graphic design</h3>
+<h3 align="center">A 22 year old developer with a passion for graphic design</h3>
 <ul >
 
 <li> How to reach me <b>baha.smaoui@medtech.tn/b></li>
